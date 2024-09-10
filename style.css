@@ -63,5 +63,6 @@ background-color: #646d76;;
   li a{
     text-decoration: none;
     color: #111213;
+     cursor: pointer;
     font-size: larger;
   }
